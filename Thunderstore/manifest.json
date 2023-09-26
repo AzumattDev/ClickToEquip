@@ -1,0 +1,9 @@
+{
+  "name": "ClickToEquip",
+  "version_number": "1.0.0",
+  "website_url": "https://discord.gg/Vd89cSgxNW",
+  "description": "Right clicking to use on your clothes, now correctly equips them.",
+  "dependencies": [
+    "SunkenlandModding-BepInExPack_Sunkenland-5.4.22"
+  ]
+}
